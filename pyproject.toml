@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-shareable"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cloudpickle>=3.1.1",
+    "streamlit>=1.48.0",
+]
